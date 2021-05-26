@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("AgileCoding.Library.Interfaces")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("This is a standardized list of Interfaces to use across domains")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("AgileCoding.Library.Interfaces")]
-[assembly: AssemblyCopyright("Ernie Gunning")]
+[assembly: AssemblyProduct("AgileCoding")]
+[assembly: AssemblyCopyright("Copyright (c) Ernie Gunning 2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
